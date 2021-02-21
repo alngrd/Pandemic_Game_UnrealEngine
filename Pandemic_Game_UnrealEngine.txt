@@ -1,0 +1,57 @@
+Blueprints:
+
+Youtube video:
+https://www.youtube.com/watch?v=DFxI_S78FdQ&ab_channel=greenfieldiscool
+
+Main menu 
+
+
+Blueprint- <iframe src="https://blueprintue.com/render/smonqzgg" scrolling="no" allowfullscreen></iframe>
+
+
+Main menu UI - <iframe src="https://blueprintue.com/render/ls_he3u2" scrolling="no" allowfullscreen></iframe>
+
+
+
+First level
+
+
+Blueprint - <iframe src="https://blueprintue.com/render/o2ut611k" scrolling="no" allowfullscreen></iframe>
+
+
+Health bar - <iframe src="https://blueprintue.com/render/c0t05-lf" scrolling="no" allowfullscreen></iframe>
+
+
+
+Second level 
+
+
+Blueprint - <iframe src="https://blueprintue.com/render/bretmllc" scrolling="no" allowfullscreen></iframe>
+
+
+Lifespan - <iframe src="https://blueprintue.com/render/3eh9e08z" scrolling="no" allowfullscreen></iframe>
+
+
+
+Quarantine
+
+
+Blueprint - <iframe src="https://blueprintue.com/render/rw70xdog" scrolling="no" allowfullscreen></iframe>
+
+
+Day counter - <iframe src="https://blueprintue.com/render/pj-rwt3p" scrolling="no" allowfullscreen></iframe>
+
+
+Blueprint Classes
+
+
+Third person gamemode - <iframe src="https://blueprintue.com/render/0q__egf7" scrolling="no" allowfullscreen></iframe>
+
+
+Third person character - <iframe src="https://blueprintue.com/render/z1934jbl" scrolling="no" allowfullscreen></iframe>
+
+
+Enemy - <iframe src="https://blueprintue.com/render/6yyt2ues" scrolling="no" allowfullscreen></iframe>
+
+
+Toilet paper - <iframe src="https://blueprintue.com/render/28-mllm2" scrolling="no" allowfullscreen></iframe>
